@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/talend_cloud/first_step_0.1</module>
+    <module>jobs/process/Examples/video_viewers_watch_results_log_filter_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
